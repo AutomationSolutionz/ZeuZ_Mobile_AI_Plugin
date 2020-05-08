@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+npm-debug.log
+*.sw*
+*.un~
+.idea/*
+Thumbs.db
+coverage/
+docs_dist/
+.nyc_output
+.temp
+public/dist

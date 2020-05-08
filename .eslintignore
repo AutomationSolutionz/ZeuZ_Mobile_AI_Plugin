@@ -1,0 +1,10 @@
+**/.*
+**/node_modules
+**/test
+**/logs
+**/coverage/
+**/build/
+**/assets/
+**/dist/
+**/docs_dist/
+**/public
