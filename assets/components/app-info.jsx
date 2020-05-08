@@ -3,12 +3,12 @@ import './app-info.less';
 
 export default () => (
   <div className="app-info">
-    <span>v{ pkg.version }</span>
+    <span>v1.2</span>
     <span>
-      &copy; 2015-{ (new Date).getFullYear() } <a href="//macacajs.github.io/app-inspector" target="_blank">Macaca</a>
+      &copy; 2020-{ (new Date).getFullYear() } <a href="https://zeuz.ai" target="_blank">ZeuZ</a>
     </span>
     <strong>
-      <a className="fn-right" target="_blank" style={{color: '#f60'}} href="//github.com/macacajs/app-inspector/issues/new">
+      <a className="fn-right" target="_blank" style={{color: '#f60'}} href="https://www.zeuz.ai/request-a-live-demo/">
         Need help?
       </a>
     </strong>

@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/macacajs/app-inspector.git"
+    "url": "https://github.com/riz-hossain/ZeuZMobileAIInspector.git"
   },
   "dependencies": {
     "co": "^4.6.0",
@@ -78,9 +78,9 @@
       "pre-commit": "npm run lint"
     }
   },
-  "homepage": "https://github.com/macacajs/app-inspector",
-  "bugs": "https://github.com/macacajs/app-inspector/issues/new",
-  "license": "MIT",
+  "homepage": "https:zeuz.ai",
+  "bugs": "https://www.zeuz.ai/contact/",
+  "license": "ZeuZ",
   "optionalDependencies": {
     "ios-simulator": "*",
     "macaca-adb": "*",

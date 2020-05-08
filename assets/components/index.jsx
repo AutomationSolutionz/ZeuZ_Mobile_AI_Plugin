@@ -114,9 +114,9 @@ class App extends Component {
     return (
       <div className="container">
         <div className="header">
-          <a href="//macacajs.github.io/app-inspector" target="_blank">
-            <img className="page-logo" src="//npmcdn.com/macaca-logo@latest/svg/monkey.svg" />
-            <h1>Macaca App Inspector</h1>
+          <a href="https://www.zeuz.ai" target="_blank">
+            <img className="page-logo" src="https://www.zeuz.ai/wp-content/uploads/2019/06/just_logo_ZeuZ.png" />
+            <h1>ZeuZ AI Inspector</h1>
             <GitHubButton
               type="stargazers"
               namespace="macacajs"
